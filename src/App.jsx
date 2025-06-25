@@ -16,14 +16,18 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>La cucaracha la cucaracha</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/SHYUkAthMN0"
+          title="La Cucaracha – The Mariachis"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen>
+        </iframe>
+
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
