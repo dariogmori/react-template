@@ -10,10 +10,10 @@ function App() {
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+          <img src="https://i.pinimg.com/originals/0d/a2/35/0da23590161a7675ad2ef00899b65a7d.gif" className="logo" alt="Vite logo" />
         </a>
         <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          <img src="https://i.pinimg.com/originals/0d/a2/35/0da23590161a7675ad2ef00899b65a7d.gif" className="logo react" alt="React logo" />
         </a>
       </div>
       <h1>La cucaracha la cucaracha</h1>
